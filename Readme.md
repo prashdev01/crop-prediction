@@ -1,7 +1,7 @@
 # Crop prediction
 clone the GitHUb Repo
 ```bash
-git clone https://github.com/prashdev01/crop-prediction.git
+git clone  
 ```
 ### Install the dependancies
 ``` bash
